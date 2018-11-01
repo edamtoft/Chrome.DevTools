@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chrome.DevTools", "src\Chrome.DevTools\Chrome.DevTools.csproj", "{CDBCD35F-B5FC-46B3-A2B5-F7E91044AF2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenshotTool", "samples\ScreenshotTool\ScreenshotTool.csproj", "{223E689E-7A32-4637-A7F5-29AF9151F75A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDBCD35F-B5FC-46B3-A2B5-F7E91044AF2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDBCD35F-B5FC-46B3-A2B5-F7E91044AF2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDBCD35F-B5FC-46B3-A2B5-F7E91044AF2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDBCD35F-B5FC-46B3-A2B5-F7E91044AF2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{223E689E-7A32-4637-A7F5-29AF9151F75A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{223E689E-7A32-4637-A7F5-29AF9151F75A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{223E689E-7A32-4637-A7F5-29AF9151F75A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{223E689E-7A32-4637-A7F5-29AF9151F75A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7EBB29A-0C05-4346-8405-DAC1DE9EC2B7}
+	EndGlobalSection
+EndGlobal
